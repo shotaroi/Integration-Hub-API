@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shotaroi.integrationhub.orders.mapping.PartnerAMapperTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.144 s -- in com.shotaroi.integrationhub.orders.mapping.PartnerAMapperTest

@@ -1,0 +1,8 @@
+com/shotaroi/integrationhub/PartnerAuthRequestPostProcessor.class
+com/shotaroi/integrationhub/TestSecurityConfig.class
+com/shotaroi/integrationhub/WithPartnerAuth.class
+com/shotaroi/integrationhub/WithPartnerAuth$WithPartnerAuthSecurityContextFactory.class
+com/shotaroi/integrationhub/SecurityTest.class
+com/shotaroi/integrationhub/orders/mapping/PartnerBMapperTest.class
+com/shotaroi/integrationhub/orders/mapping/PartnerAMapperTest.class
+com/shotaroi/integrationhub/OrderIntegrationTest.class
